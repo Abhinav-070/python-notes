@@ -1,0 +1,8 @@
+Hello World
+Learn Python
+Learn Java
+Learn Javascript
+Learn C
+goodbye
+goodbye
+
