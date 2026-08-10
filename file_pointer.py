@@ -1,0 +1,20 @@
+# f=open("new.txt","w+")   
+# print(f.tell())
+# f.write("Hello")   
+# print(f.tell())
+# f.write("python")
+# print(f.tell())
+# f.close()
+
+# f=open("new.txt","w")
+# f.write("Hello python")
+# f.close()
+
+# f=open("new.txt","r")   
+# print(f.tell())
+# print(f.read(5))   
+# print(f.tell())
+# print(f.read())
+# print(f.tell())
+# f.close()
+
