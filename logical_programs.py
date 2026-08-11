@@ -227,3 +227,21 @@
 #         maxi = value
 #         freq = key
 # print("Most Common Error Code:",freq)
+
+#13-1
+
+# text = "Welcome,to python-programming"
+# word=""
+# words=[]
+# for ch in text:
+#     if ch != " " and ch != " " and ch != "-":
+#         word += ch
+#     else:
+#         words.append(word)
+#         word = ""
+# words.append(word)
+# print(words)
+
+# text = "Welcome to python programming"
+# print(text.split())
+
