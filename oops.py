@@ -57,13 +57,13 @@
 # c = Car("Toyota","Innova")
 # c.display()
 
-class Students:
-    def __init__(self,name):
-        self.name=name
-    def introduce (self):
-        print("My name is ",self.name)
+# class Students:
+#     def __init__(self,name):
+#         self.name=name
+#     def introduce (self):
+#         print("My name is ",self.name)
 
-s1= Students("Anu")
-s1.introduce()
-s2= Students("Rahul")
-s2.introduce()
+# s1= Students("Anu")
+# s1.introduce()
+# s2= Students("Rahul")
+# s2.introduce()
